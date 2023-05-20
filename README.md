@@ -1,1 +1,5 @@
-# encryptfree
+# Шифровщик ключей
+
+- Установка зависимостей: npm i
+- Запуск программы: npm run start
+- Компиляция .exe : npm run build
